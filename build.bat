@@ -1,0 +1,1 @@
+python -m PyInstaller --noconsole --onefile --uac-admin BitLocker_Vault.py
